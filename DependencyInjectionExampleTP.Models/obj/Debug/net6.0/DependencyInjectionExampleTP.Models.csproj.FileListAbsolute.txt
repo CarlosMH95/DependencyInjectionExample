@@ -1,0 +1,12 @@
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.Models\bin\Debug\net6.0\DependencyInjectionExampleTP.Models.deps.json
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.Models\bin\Debug\net6.0\DependencyInjectionExampleTP.Models.dll
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.Models\bin\Debug\net6.0\DependencyInjectionExampleTP.Models.pdb
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.Models\obj\Debug\net6.0\DependencyInjectionExampleTP.Models.csproj.AssemblyReference.cache
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.Models\obj\Debug\net6.0\DependencyInjectionExampleTP.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.Models\obj\Debug\net6.0\DependencyInjectionExampleTP.Models.AssemblyInfoInputs.cache
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.Models\obj\Debug\net6.0\DependencyInjectionExampleTP.Models.AssemblyInfo.cs
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.Models\obj\Debug\net6.0\DependencyInjectionExampleTP.Models.csproj.CoreCompileInputs.cache
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.Models\obj\Debug\net6.0\DependencyInjectionExampleTP.Models.dll
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.Models\obj\Debug\net6.0\refint\DependencyInjectionExampleTP.Models.dll
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.Models\obj\Debug\net6.0\DependencyInjectionExampleTP.Models.pdb
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.Models\obj\Debug\net6.0\ref\DependencyInjectionExampleTP.Models.dll

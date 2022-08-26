@@ -1,0 +1,15 @@
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.DataAccess\obj\Debug\net6.0\DependencyInjectionExampleTP.DataAccess.csproj.AssemblyReference.cache
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.DataAccess\obj\Debug\net6.0\DependencyInjectionExampleTP.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.DataAccess\obj\Debug\net6.0\DependencyInjectionExampleTP.DataAccess.AssemblyInfoInputs.cache
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.DataAccess\obj\Debug\net6.0\DependencyInjectionExampleTP.DataAccess.AssemblyInfo.cs
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.DataAccess\obj\Debug\net6.0\DependencyInjectionExampleTP.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.DataAccess\bin\Debug\net6.0\DependencyInjectionExampleTP.DataAccess.deps.json
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.DataAccess\bin\Debug\net6.0\DependencyInjectionExampleTP.DataAccess.dll
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.DataAccess\bin\Debug\net6.0\DependencyInjectionExampleTP.DataAccess.pdb
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.DataAccess\bin\Debug\net6.0\DependencyInjectionExampleTP.Models.dll
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.DataAccess\bin\Debug\net6.0\DependencyInjectionExampleTP.Models.pdb
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.DataAccess\obj\Debug\net6.0\DependencyInjectionExampleTP.DataAccess.csproj.CopyComplete
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.DataAccess\obj\Debug\net6.0\DependencyInjectionExampleTP.DataAccess.dll
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.DataAccess\obj\Debug\net6.0\refint\DependencyInjectionExampleTP.DataAccess.dll
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.DataAccess\obj\Debug\net6.0\DependencyInjectionExampleTP.DataAccess.pdb
+C:\Users\cmano\source\repos\DependencyInjectionExampleTP\DependencyInjectionExampleTP.DataAccess\obj\Debug\net6.0\ref\DependencyInjectionExampleTP.DataAccess.dll
